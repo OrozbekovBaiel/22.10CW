@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(124, 138, 138);
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  background-color: wheat;
+}
+h2 h3 h4 {
+  text-align: left;
+  font-size: large;
+  margin-left: 15px;
+}
+
+p: :first-of-type {
+  text-align: center;
+}
+ol {
+  padding: 20px;
+  margin: 25px;
+  text-align: center;
+  background-color: white;
+  color: rgb(41, 41, 59);
+  float: left;
+}
+
+img {
+  float: left;
+  margin: 15px;
+}
+#example-2 {
+  float: right;
+}
+
+.merin1 {
+  background-position: center;
+}
+div {
+  display: flex;
+}
+#example-1 {
+  float: left;
+  padding-left: 10px;
+}
